@@ -1,0 +1,2 @@
+int main() { int x = 10; int *ptr = &x; *ptr = 20; printf("%d\n", x); // Output: 20 
+ int y[5] = {1, 2, 3, 4, 5}; int *arrPtr = y; printf("%d\n", *arrPtr); //Output: 1 printf("%d\n", *(arrPtr + 2)); // Output: 3 return 0; }
