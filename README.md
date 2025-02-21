@@ -1,0 +1,1 @@
+This repository contains a simple C program that illustrates the use of pointers. The 'bug.c' file demonstrates basic pointer assignment and dereferencing. The 'bugSolution.c' file provides a slightly more complex example involving pointer arithmetic. These examples highlight potential pitfalls and provide solutions for common pointer-related errors.
